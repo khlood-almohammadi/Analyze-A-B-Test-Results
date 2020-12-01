@@ -8,6 +8,6 @@ we will be working to understand the results of an A / B test administered by an
 
 # Statistical Analysis Scope
 
-    Bootstrapping sampling distributions
-    P-value and Z-score calculation
-    Logistic regression
+- Bootstrapping sampling distributions
+- P-value and Z-score calculation
+- Logistic regression

@@ -17,3 +17,4 @@ we will be working to understand the results of an A / B test administered by an
 
 - Python, Pandas, Numpy, Matplotlib
 - Jupyter Notebook
+..

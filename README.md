@@ -11,7 +11,7 @@ we will be working to understand the results of an A / B test administered by an
 - Bootstrapping sampling distributions
 - P-value and Z-score calculation
 - Logistic regression
-..
+
 
 # Tools
 
@@ -19,4 +19,4 @@ we will be working to understand the results of an A / B test administered by an
 - Jupyter Notebook
 
 
-..
+

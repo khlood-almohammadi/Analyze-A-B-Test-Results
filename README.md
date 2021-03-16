@@ -14,7 +14,6 @@ we will be working to understand the results of an A / B test administered by an
 - Logistic regression
 
 
-
 # Tools
 
 - Python, Pandas, Numpy, Matplotlib
